@@ -19,3 +19,8 @@ Elaborado por _Vera García Leslie Sarai_
 
 
 [Práctica 4: Funciones, arreglos y matrices](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%204) 
+
+
+
+
+[Práctica 5: Bisección y falsa pocisión](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%205)
