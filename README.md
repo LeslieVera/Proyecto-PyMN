@@ -1,5 +1,7 @@
 # Proyecto-PyMN
 Esta página es el proyecto final de la materia de _**Programación y Métodos Númericos en UABC**_. 
+
+
 El contenido esta basado en las practicas de laboratorio vistas durante el semestre del periodo 2020-2.
 
 
@@ -36,3 +38,8 @@ Elaborado por _Vera García Leslie Sarai_ estudiante de segundo semestre de Ingi
 
 
 [Práctica 10: Derivación numerica](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%2010) 
+
+
+
+
+_GRACIAS_ 
