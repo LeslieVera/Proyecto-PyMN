@@ -31,3 +31,8 @@ Elaborado por _Vera García Leslie Sarai_
 
 
 [Práctica 6: Interpolación de Newton](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%206)
+
+
+
+
+[Práctica 10: IDerivación numerica](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%2010) 
