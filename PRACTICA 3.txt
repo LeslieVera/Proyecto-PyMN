@@ -1,0 +1,66 @@
+//DIGITOS BINARIOS DE UN NUMERO DECIMAL//
+#include <stdio.h>
+
+int main(){
+	int n, bin[999];
+    int i = 0;
+    printf("Ingresa un numero decimal: ");
+    scanf("%i",&n);
+	
+    while (n != 0)
+    {
+          bin[i] = n % 2;
+          n = n / 2;
+          i++;
+    }
+    i--;
+    printf("Binario: \n ");   
+    while (i>=0)
+    {
+          printf("%i",bin[i]);
+          i--;
+          printf("\n ");
+    }
+   return 0;
+}
+
+
+//FIBONACCI//
+#include <stdio.h>
+
+int main() {
+    int numero, i, x=0, y=1, z=1, segundo, j, a=0, b=1, c=1;
+    float fibonacci;
+    printf("Numero de elemtos de la serie:");
+    scanf("%i", &numero);
+    printf("1,");
+    
+    for (i=1;i<numero;i++) {
+        z=x+y;
+        x=y;
+        y=z;
+        printf("%i,",z);
+    }
+    printf("Numero de elementos de la serie:");
+    scanf("%i", & segundo);
+    printf("1,");
+
+for (j=1; j< segundo;j++) {
+    c=a+b;
+    a=b;
+    b=c;
+    printf("%i,",c);
+    }
+    
+    printf("El numero fibonacci es:");
+    fibonacci= numero / segundo;
+    printf ("%f", fibonacci);
+
+    return 0;
+}
+
+}
+
+
+
+
