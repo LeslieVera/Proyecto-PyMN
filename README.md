@@ -24,3 +24,8 @@ Elaborado por _Vera García Leslie Sarai_
 
 
 [Práctica 5: Bisección y falsa pocisión](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%205)
+
+
+
+
+[Práctica 6: Interpolación de Newton](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%206)
