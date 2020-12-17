@@ -1,9 +1,9 @@
 # Proyecto-PyMN
 Esta página es el proyecto final de la materia de _**Programación y Métodos Númericos en UABC**_. 
-El contenido son las practicas de laboratorio vistas durante el semestre.
+El contenido esta basado en las practicas de laboratorio vistas durante el semestre del periodo 2020-2.
 
 
-Elaborado por _Vera García Leslie Sarai_
+Elaborado por _Vera García Leslie Sarai_ estudiante de segundo semestre de Ingieneria, aspirante a ingieneria civil.
 
 
 
