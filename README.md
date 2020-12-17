@@ -15,3 +15,7 @@ Elaborado por _Vera García Leslie Sarai_
 
 
 [Práctica 3: Estructuras repetitivas](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%203) 
+
+
+
+[Práctica 4: Funciones, arreglos y matrices](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%204) 
