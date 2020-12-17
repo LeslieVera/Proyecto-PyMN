@@ -5,4 +5,4 @@ Elaborado por _Vera García Leslie Sarai_
 
 
 
-[Práctica 1: Introducción y uso de variables] (https://github.com/LeslieVera/Proyecto-PyMN/blob/main/Practica%201%20a).c) 
+[Práctica 1: Introducción y uso de variables](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/Practica%201%20a).c) 
