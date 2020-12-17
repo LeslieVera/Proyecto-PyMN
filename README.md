@@ -35,4 +35,4 @@ Elaborado por _Vera García Leslie Sarai_
 
 
 
-[Práctica 10: IDerivación numerica](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%2010) 
+[Práctica 10: Derivación numerica](https://github.com/LeslieVera/Proyecto-PyMN/blob/main/PRACTICA%2010) 
